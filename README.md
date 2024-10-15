@@ -65,6 +65,6 @@ If you're looking for a developer who can manage both front-end and back-end tas
 ---
 
 ### 📫 How to reach me:
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/robert-docan-59a209209/))
+- [LinkedIn](https://www.linkedin.com/in/robert-docan-59a209209/)
 - [Discord](https://discordapp.com/channels/@me/323848770095808513/)
 - [Email](mailto:robertdluigi@gmail.com)
