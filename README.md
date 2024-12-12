@@ -1,6 +1,6 @@
-# Hi, I'm Robert! 👋 | Full-Stack Developer
+# Hi, I'm Robert! 👋
 
-Welcome to my GitHub profile! I'm a Full-Stack Developer with a strong focus on building dynamic, scalable, and user-friendly applications. My development journey is driven by a genuine passion for coding and solving complex problems. I am always striving to stay ahead of the curve by exploring the latest technologies and industry best practices.
+Welcome to my GitHub profile! I'm a a Developer with a strong focus on building dynamic, scalable, and user-friendly applications.
 
 ---
 
