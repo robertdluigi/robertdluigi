@@ -28,6 +28,7 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer with a strong focus on 
   ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square) 
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) 
   ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
+  ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=flat-square)
   
 - **Frameworks**:  
   ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square) 
@@ -54,7 +55,6 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer with a strong focus on 
 ### 💼 Why Work With Me?
 - **Adaptability**: I adapt quickly to your project’s needs and goals, whether you're building a large-scale enterprise system or a sleek, modern web app.
 - **Agile Approach**: I employ agile methodologies, breaking down complex tasks into manageable sprints, allowing for quick iteration, fast delivery, and continuous feedback.
-- **End-to-End Solutions**: I offer a full development cycle, from initial consultation to post-launch support, ensuring the project runs smoothly from start to finish.
 - **Problem Solver**: Whether it’s optimizing back-end performance, fixing complex bugs, or designing the perfect user interface, I’m always excited to tackle new challenges and come up with innovative solutions.
 
 ---
