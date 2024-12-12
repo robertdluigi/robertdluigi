@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer with a strong focus on 
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) 
   ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square)
   
-- **API Integration**:
+- **API Integration**:  
   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)
   ![REST API](https://img.shields.io/badge/-REST%20API-02569B?logo=api&logoColor=white&style=flat-square)
 
